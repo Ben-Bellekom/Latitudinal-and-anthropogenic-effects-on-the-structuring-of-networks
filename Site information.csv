@@ -1,0 +1,48 @@
+name,Site,continent,latitude,Longitude,numhost,numinsect,matrixsize,sprichness
+P01,Near-natural,Africa,-30.5594826,22.9375057,8,11,52,19
+P02,Agricultural land,Africa,33.8869171,9.5374994,13,5,120,18
+P03,Agricultural land,Africa,9.0819988,8.6752768,4,2,42,6
+P04,Near-natural,North America,39.023,-122.920156,12,7,199,19
+P05,Agricultural land,Europe,60.1281624,18.6435013,14,15,128,29
+P06,Near-natural,Europe,36.95,-6.233333,23,7,233,31
+P07,Near-natural,Europe,44,26.433333,26,6,55,32
+P08,Agricultural land,Europe,49.792753,4.280772,6,13,143,19
+P09,Agricultural land,Europe,55.673686,11.554103,8,14,217,22
+P10,Near-natural,Europe,48,7.85,5,13,80,18
+P11,Agricultural land,Europe,51.377445,0.78406,19,9,1046,28
+P12,Urban,South America,-25.520556,-48.509444,19,10,25,23
+P12.5,Near-natural,South America,-25.520556,-48.509444,6,3,29,9
+P13,Urban,Australia,-22.051,148.189,16,7,54,23
+P14,Near-natural,Europe,48,7.85,5,11,69,16
+P15,Agricultural land,Europe,51.377445,0.784068,3,2,43,5
+P16,Near-natural,Europe,40.4636688,-3.7492199,5,6,144,11
+P17,Agricultural land,North America,8.361167,-77.940667,15,13,338,27
+P18,Near-natural,Europe,49.8174934,15.4729624,32,3,94,36
+P19,Urban,North America,41.850029,-87.6500473,6,6,641,9
+P20,Near-natural,Australia,-25.2743988,133.7751312,11,8,122,15
+P20.5,Urban,Australia,-25.2743988,133.7751312,8,6,28,14
+P21,Urban,Africa,7.3697219,12.354722,7,3,199,10
+P22,Near-natural,Africa,7.3697219,32.2902756,5,3,94,10
+P23,Agricultural land,Europe,40.674025,22.947647,3,3,49,6
+P24,Urban,Europe,39.3998718,-8.2244539,8,3,30,11
+P25,Urban,South America,-14.2350044,-51.9252815,4,7,192,11
+P26,Agricultural land,Africa,33.8869171,9.5374994,10,5,163,15
+P27,Urban,Australia,-16.916667,145.766667,8,20,438,23
+P28,Urban,Asia,23.6978092,120.9605179,6,11,98,16
+P29,Urban,North America,40.7142715,-74.0059662,17,9,91,24
+P30,Agricultural land,Europe,56.2639198,9.5017853,8,14,218,22
+P31,Urban,North America,37.0902405,-95.7128906,26,2,176,28
+P32,Near-natural,Europe,60.1281624,18.6435013,4,5,45,9
+P34,Near-natural,Europe,60.1281624,18.6435013,25,17,200,42
+P35,Near-natural,Asia,31.046051,34.8516121,19,5,263,23
+P36,Agricultural land,Europe,45.943161,24.9667606,27,6,1029,33
+P38,Near-natural,Europe,51.7522202,-1.25596,2,5,12,7
+P39,Agricultural land,Europe,51.715807,-1.38081,8,8,59,16
+P40,Near-natural,North America,27.5803108,-80.3867188,10,6,60,16
+P41,Near-natural,North America,32.4279099,53.6880455,11,4,390,13
+P42,Near-natural,South America,10.691803,-61.2225037,16,8,38,23
+P43,Urban,Africa,17.5706921,-3.996166,4,2,312,5
+P44,Urban,North America,37.0902405,-95.7128906,23,3,314,26
+P45,Urban,Europe,47.1624947,19.5033035,18,11,76,29
+P46,Agricultural land,Asia,26.120191,127.9333296,34,35,557,34
+P47,Urban,Europe,40.4636688,2.15899,9,2,96,11
